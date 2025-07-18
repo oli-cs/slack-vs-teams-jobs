@@ -28,6 +28,7 @@ Something missing or inaccurate? Feel free to open a [PR](https://github.com/sms
 [Palantir](https://www.palantir.com/) | Slack
 [Perplexity](https://www.perplexity.ai/) | Slack
 [Raspberry Pi Foundation](https://www.raspberrypi.org/) | Slack
+[Roku](https://www.roku.com/) | Slack
 [Shopify](https://www.shopify.com/uk) | Slack
 [Siemens](https://www.siemens.com/global/en.html) | Teams
 [Spotify](https://open.spotify.com/) | Slack
